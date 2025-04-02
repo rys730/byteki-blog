@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on byteki blog</title>
+    <link>https://blog.byteki.dev/pages/</link>
+    <description>Recent content in Pages on byteki blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://blog.byteki.dev/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://blog.byteki.dev/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.byteki.dev/pages/about/</guid>
+      
+      <description>&lt;p&gt;&lt;strong&gt;Hi! I&amp;rsquo;m Kristianto Wijaya.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a Software Engineer with a passion for creating impactful software. My journey into tech has been full of growth, curiosity, and learning.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Get in Touch&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you want to connect, collaborate, or just have a chat about tech, feel free to reach me out. I’m always open to meeting new people and learning from their experiences!&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
